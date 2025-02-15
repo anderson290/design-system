@@ -1,5 +1,5 @@
 {
-  "name": "@portal-ui/tokens",
+  "name": "@portal-ui/react",
   "version": "1.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -13,6 +13,7 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "@portal-ui/tokens": "*",
     "tsup": "^8.3.6",
     "typescript": "^5.7.3"
   }
