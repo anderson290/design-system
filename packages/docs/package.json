@@ -12,6 +12,9 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
+    "@portal-ui/react": "*",
+    "@portal-ui/tokens": "*",
+    "@portal-ui/eslint-config": "*",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
