@@ -12,9 +12,11 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
+    "@portal-ui/eslint-config": "*",
+    "@portal-ui/ts-config": "*",
     "@portal-ui/react": "*",
     "@portal-ui/tokens": "*",
-    "@portal-ui/eslint-config": "*",
+    "polished": "^4.3.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
@@ -29,6 +31,7 @@
     "@storybook/react": "^8.5.6",
     "@storybook/react-vite": "^8.5.6",
     "@storybook/test": "^8.5.6",
+    "@types/node": "^22.13.4",
     "@types/react": "^19.0.8",
     "@types/react-dom": "^19.0.3",
     "@vitejs/plugin-react": "^4.3.4",
