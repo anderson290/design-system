@@ -14,10 +14,13 @@
   "license": "MIT",
   "description": "",
   "devDependencies": {
+    "@portal-ui/eslint-config": "*",
     "@portal-ui/tokens": "*",
     "@portal-ui/ts-config": "*",
-    "@portal-ui/eslint-config": "*",
     "tsup": "^8.3.6",
     "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "@stitches/react": "^1.2.8"
   }
 }

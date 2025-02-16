@@ -1,5 +1,13 @@
 import { colors } from "@portal-ui/tokens";
+import { styled } from './styles';
+
+const Button = styled('button', {
+  fontFamily: '$default',
+  backgroundColor: '$portal500',
+  borderRadius: '$md',
+  padding: '$4'
+})
 
 export function App() {
-  return <h1 style={{ color: colors.portal300}}>Hello word</h1>;
+  return <Button>Hello word</Button>;
 }
