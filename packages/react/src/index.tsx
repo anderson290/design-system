@@ -1,4 +1,3 @@
-import { colors } from "@portal-ui/tokens";
 import { styled } from './styles';
 
 const Button = styled('button', {
