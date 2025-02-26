@@ -1,15 +1,12 @@
-
-import type { Meta, StoryObj } from '@storybook/react'
-import { Box, BoxProps, Text } from '@portal-ui/react'
+import type { Meta, StoryObj } from "@storybook/react";
+import { Box, BoxProps, Text } from "@portal-ui/react";
 
 export default {
-  title: 'Surfaces/Box',
+  title: "Surfaces/Box",
   component: Box,
   args: {
-    children: (
-      <Text>Testing Box Component with text component</Text>
-    ),
+    children: <Text>Testing Box Component with text component</Text>,
   },
-} as Meta<BoxProps>
+} as Meta<BoxProps>;
 
-export const Primary: StoryObj<BoxProps> = {}
+export const Primary: StoryObj<BoxProps> = {};
