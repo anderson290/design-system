@@ -1,5 +1,5 @@
 
-PORTAL UI DESIGN SYSTEM
+GLADOS UI DESIGN SYSTEM
 ---------------------------------
 
 - COMPONENTS
