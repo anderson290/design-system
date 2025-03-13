@@ -1,0 +1,21 @@
+CHANGESETS 
+----------------------------------------------------------------------------------
+- install changesets
+- npm i -D @changesets/cli
+- npx changeset init
+
+- change changeset config to public
+- setup npm account and npm login on terminal
+- ignore glados docs on changeset config file
+- setup scripts
+    "changeset": "changeset",
+    "version-packages": "changeset version",
+    "release": "turbo run build --filter=@glados-ui/docs && changeset publish"
+
+- create an npm organization with the same name as the library
+- npm run changeset ()
+- select packages
+- summary (follow steps)
+- markdown was created with version bump summary
+- npm run version-packages (this will change packages version from 1.0.0 to 2.0.0 and so on)
+- npm run release (this will publish the package)
