@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Avatar, AvatarProps } from '@portal-ui/react'
+import { Avatar, AvatarProps } from '@glados-ui/react'
 
 export default {
   title: 'Data display/Avatar',

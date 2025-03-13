@@ -1,6 +1,6 @@
 
 import type { Meta, StoryObj } from '@storybook/react'
-import { Box, Text, Checkbox, CheckboxProps } from '@portal-ui/react'
+import { Box, Text, Checkbox, CheckboxProps } from '@glados-ui/react'
 
 export default {
   title: 'Form/Checkbox',

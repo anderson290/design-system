@@ -1,5 +1,5 @@
 {
-  "name": "@portal-ui/eslint-config",
+  "name": "@glados-ui/eslint-config",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",

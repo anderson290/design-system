@@ -7,7 +7,7 @@ import tseslint from 'typescript-eslint'
 export default tseslint.config(
   { ignores: ['dist'] },
   {
-    extends: ['@portal-ui/eslint-config', js.configs.recommended, ...tseslint.configs.recommended],
+    extends: ['@glados-ui/eslint-config', js.configs.recommended, ...tseslint.configs.recommended],
     files: ['**/*.{ts,tsx}'],
     languageOptions: {
       ecmaVersion: 2020,

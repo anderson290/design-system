@@ -1,4 +1,4 @@
 {
-  "extends": "@portal-ui/ts-config/base.json",
+  "extends": "@glados-ui/ts-config/base.json",
   "include": ["src"]
 }

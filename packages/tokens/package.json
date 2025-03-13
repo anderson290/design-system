@@ -1,5 +1,5 @@
 {
-  "name": "@portal-ui/tokens",
+  "name": "@glados-ui/tokens",
   "version": "1.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,8 +14,8 @@
   "license": "MIT",
   "description": "",
   "devDependencies": {
-    "@portal-ui/ts-config": "*",
-    "@portal-ui/eslint-config": "*",
+    "@glados-ui/ts-config": "*",
+    "@glados-ui/eslint-config": "*",
     "tsup": "^8.3.6",
     "typescript": "^5.7.3"
   }

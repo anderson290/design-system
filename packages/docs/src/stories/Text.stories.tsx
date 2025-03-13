@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Text, TextProps } from '@portal-ui/react'
+import { Text, TextProps } from '@glados-ui/react'
 
 export default {
   title: 'Typography/Text',

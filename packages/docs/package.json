@@ -1,5 +1,5 @@
 {
-  "name": "@portal-ui/docs",
+  "name": "@glados-ui/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,10 +13,10 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
-    "@portal-ui/eslint-config": "*",
-    "@portal-ui/react": "*",
-    "@portal-ui/tokens": "*",
-    "@portal-ui/ts-config": "*",
+    "@glados-ui/eslint-config": "*",
+    "@glados-ui/react": "*",
+    "@glados-ui/tokens": "*",
+    "@glados-ui/ts-config": "*",
     "@storybook/addon-a11y": "^8.6.0",
     "polished": "^4.3.1",
     "react": "^19.0.0",
